@@ -1,3 +1,5 @@
+// ar rcs funcoes.a funcoes.o
+
 double funcao_01(int x, int y);
 int funcao_02(int x);
 int funcao_03(int y);
